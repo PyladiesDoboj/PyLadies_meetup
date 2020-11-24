@@ -17,6 +17,3 @@ for i in range(len(pitanja)):
         print('Pogrešno.  Tačan odgovor je', odgovori[i])
         
 print('Broj tačnih odgovora je:', broj_tacnih)
-
-
-
