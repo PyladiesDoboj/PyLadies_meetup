@@ -1,0 +1,11 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - wordcloud
+  - seaborn
+  - matplotlib
+  - pandas
+  - xlwt
+  - scikit-learn
+  - xlrd
