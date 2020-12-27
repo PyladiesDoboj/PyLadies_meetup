@@ -33,6 +33,7 @@ https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Noteboo
 https://mybinder.org/
 https://github.com/sinisabubonja/Analiza-i-vizualizacija-podataka
 https://pandas.pydata.org/docs/
+https://www.youtube.com/watch?v=5JnMutdy6Fw
 https://www.kaggle.com/PromptCloudHQ/imdb-data
 https://www.kaggle.com/datasets
 https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datasets/
