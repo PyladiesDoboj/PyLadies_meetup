@@ -1,4 +1,4 @@
-# Analiza-i-vizualizacija-podataka
+# Analiza i vizualizacija podataka
 *Jupyter Notebook, Pandas, Matplotlib, Seaborn...*
 
 Posjetite sljedeći [web sajt](https://mybinder.org/).
